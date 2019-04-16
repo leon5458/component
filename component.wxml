@@ -1,0 +1,5 @@
+<!-- 这是自定义组件的内部WXML结构 -->
+<view class="inner">
+  <text>这里是我同事写的内容</text>
+  <image src='../images/2.jpg' class='he'></image>
+</view>
